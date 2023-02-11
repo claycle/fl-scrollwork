@@ -4,7 +4,8 @@ This Forbidden Lands character sheet is designed to make tracking various dice p
 
 ## History
 
-- 1.0 - Initial drop
-- 1.2 - Added fillable version of the sheet
+- 1.0 Initial drop
+- 1.2 Added fillable version of the sheet
+- 1.3 Added a "spillover" sheet and a single page fillable version of the spillover
 
 *claycle*
